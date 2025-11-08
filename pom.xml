@@ -49,7 +49,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
-		<finalName>springboot-images</finalName>
+		<finalName>springboot-cicd-actions</finalName>
 	</build>
 
 </project>
